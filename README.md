@@ -18,7 +18,7 @@ We are visiting the tallest building in the world, the Burj Khalifa (829.8 meter
     - If the roll is divisible by 3, you go up 3 steps
     - If the roll is even, you go up 2 steps
     - Otherwise, you go down 2 steps (but you can't go below the ground floor)
-    - The stairs are slippery! there is a 1% chance you will fall all the way to the ground floor.
+    - The stairs are slippery! there is a 0.1% chance you will fall all the way to the ground floor.
 - 100 rolls, where do you end up?
 
 I bet you won't get above floor 90.  Do you take that bet?
